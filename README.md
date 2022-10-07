@@ -1,2 +1,2 @@
-# 2022_USTC_Discrete_Mathematics
+# 2022秋中国科学技术大学离散数学课程资源
  
